@@ -53,7 +53,6 @@ jupyter notebook linear_regression_spotify_final.ipynb
 ```
 
 **In Jupyter:** Select kernel **"Python (ML-Algos)"** from Kernel → Change Kernel
-```
 ---
 
 ## 📋 Requirements
