@@ -54,8 +54,9 @@ jupyter notebook linear_regression_spotify_final.ipynb
 
 **In Jupyter:** Select kernel **"Python (ML-Algos)"** from Kernel → Change Kernel
 ```
+---
 
-## Requirements
+## 📋 Requirements
 
 - Python 3.8+
 - NumPy, Pandas, Matplotlib, Seaborn
@@ -73,15 +74,15 @@ See [requirements.txt](requirements.txt) for full list.
 
 - Medium: [@grudinina-kira](https://medium.com/@grudinina.kira)
 - LinkedIn: [Kira Grudinina](https://www.linkedin.com/in/kiragrudinina/)
-- GitHub: [Kira Grudinina](https://github.com/Kira252Grudinina)
+- GitHub: [Kira252Grudinina](https://github.com/Kira252Grudinina)
 
-
+---
 
 ## 📄 License
 
 MIT License - feel free to use for learning!
 
-
+---
 
 ## 🤝 Contributing
 
