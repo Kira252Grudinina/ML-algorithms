@@ -21,9 +21,6 @@ Understanding ML by building algorithms without black-box libraries (scikit-lear
 -  Dataset: 114,000 Spotify tracks
 -  Concepts: Gradient descent, feature scaling, data leakage prevention
 
-**Key Results:**
-- R² = 0.02 (realistic - audio features alone don't predict popularity!)
-- RMSE = 22 popularity points
 - **Main Learning:** Feature scaling prevents gradient explosion 
 
 ---
