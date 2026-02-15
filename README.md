@@ -66,6 +66,7 @@ jupyter notebook linear_regression_spotify_final.ipynb
 See [requirements.txt](requirements.txt) for full list.
 
 ---
+
 ## 👩‍💻 Author
 
 **Kira Grudinina**
@@ -74,16 +75,15 @@ See [requirements.txt](requirements.txt) for full list.
 - LinkedIn: [Kira Grudinina](https://www.linkedin.com/in/kiragrudinina/)
 - GitHub: [Kira Grudinina](https://github.com/Kira252Grudinina)
 
----
+
 
 ## 📄 License
 
 MIT License - feel free to use for learning!
 
----
+
 
 ## 🤝 Contributing
 
 Found a bug or want to add an algorithm? Open an issue or PR!
 
----
