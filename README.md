@@ -4,7 +4,7 @@ Machine learning algorithms implemented from scratch using NumPy, with detailed 
 
 > 📚 Part of my Medium series: **"From Intuition to Math to Code"**
 
-## 🎯 Goal
+## Goal
 
 Understanding ML by building algorithms without black-box libraries (scikit-learn used only for validation).
 
@@ -54,9 +54,6 @@ jupyter notebook linear_regression_spotify_final.ipynb
 
 **In Jupyter:** Select kernel **"Python (ML-Algos)"** from Kernel → Change Kernel
 ```
-
-
----
 
 ## Requirements
 
