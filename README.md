@@ -20,9 +20,6 @@ Understanding ML by building algorithms without black-box libraries (scikit-lear
 -  [Article 2: Practice](https://medium.com/@grudinina.kira/linear-regression-in-practice-predicting-spotify-song-popularity-81b9b76188e6) - Real data, feature scaling, evaluation
 -  Dataset: 114,000 Spotify tracks
 -  Concepts: Gradient descent, feature scaling, data leakage prevention
-
-- **Main Learning:** Feature scaling prevents gradient explosion 
-
 ---
 
 ### 02 - Logistic Regression
